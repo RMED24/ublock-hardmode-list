@@ -222,6 +222,7 @@ vimeo.com vimeo-video.map.fastly.net * noop
 vimeo.com vimeo.map.fastly.net * noop
 vimeo.com vimeocdn.com * noop
 vk.com userapi.com * noop
+www.walmart.com walmartimages.com * noop
 en.wikipedia.org upload.wikimedia.org * noop
 lesestube.wordpress.com s0.wp.com * noop
 wordpress.org i0.wp.com * noop
