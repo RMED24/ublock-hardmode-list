@@ -74,7 +74,10 @@ www.ebay.it secureir.ebaystatic.com * noop
 www.etsy.com akamai.net * noop
 www.etsy.com i.etsystatic.com * noop
 www.etsy.com js.sentry-cdn.com * noop
+github.com avatars.githubusercontent.com * noop
+github.com githubassets.com * noop
 accounts.google.com gstatic.com * noop
+drive.google.com fonts.googleapis.com * noop
 drive.google.com googleusercontent.com * noop
 drive.google.com gstatic.com * noop
 support.google.com www.gstatic.com * noop
