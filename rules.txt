@@ -102,6 +102,7 @@ www.ifixit.com cloudfront.net * noop
 imgur.com ipv4.imgur.map.fastly.net * noop
 www.instagram.com static.cdninstagram.com * noop
 kick.com dbxmjjzl5pc1g.cloudfront.net * noop
+kick.com live-video.net * noop
 www.linkedin.com akamai.net * noop
 www.linkedin.com static.licdn.com * noop
 login.live.com alphacdn.net * noop
