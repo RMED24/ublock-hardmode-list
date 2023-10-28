@@ -13,6 +13,6 @@ In that same settings menu as stated above, head over to the "My Filters" tab at
 
 ## Rules
 
-Same settings menu as before, but this time we head over to "My Rules", also at the top, and you'll follow the exact same steps for the filter process, as well as upgrading them, but instead, you'll want to click Save on the right hand side, then click commit to commit it to the primary rules list.
+Same settings menu as before, but this time we head over to "My Rules", also at the top, and you'll follow the exact same steps for the filter process, as well as upgrading them, but instead, you'll want to click save on the right hand side, then click commit to commit it to the primary rules list.
 
 Alternatively, for the updgrades, you can simply paste the new list under the previous list, and uBlock will sort them, and clear out duplicates, which should make the process simpler.
