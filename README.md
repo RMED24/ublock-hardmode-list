@@ -5,7 +5,7 @@ This will slowly evolve over time as we work to make it function on more and mor
 
 # How to install
 
-To start, enable [Advanced User mode](https://github.com/gorhill/uBlock/wiki/Advanced-user-features), but to explain it simply here, click the uBlock Origin icon in the upper right of Firefox, click the gears icon, scroll down if nessecart, and check the box labled "I am an advanced user".
+To start, enable [Advanced User mode](https://github.com/gorhill/uBlock/wiki/Advanced-user-features), but to explain it simply here, click the uBlock Origin icon in the upper right of Firefox, click the gears icon, scroll down if nessecary, and check the box labled "I am an advanced user".
 
 ## Filters
 
