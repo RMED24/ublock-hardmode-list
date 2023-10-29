@@ -4,6 +4,9 @@ no-large-media: behind-the-scene false
 * * 3p-frame block
 * * 3p-script block
 1337x.to * 3p noop
+boards.4chan.org 4cdn.org * noop
+www.4chan.org 4cdn.org * noop
+www.4chan.org cloudflare.com * noop
 www.abandonwaredos.com stackpath.bootstrapcdn.com * noop
 www.adobe.com geo2.adobe.com * block
 www.adobe.com assets.adobedtm.com * noop
@@ -213,6 +216,7 @@ www.pishop.us cdn11.bigcommerce.com.cdn.cloudflare.net * noop
 www.pishop.us checkout-sdk.bigcommerce.com.cdn.cloudflare.net * noop
 www.play-asia.com playasia.b-cdn.net * noop
 www.play-asia.com s.pacn.ws * noop
+app.plex.tv plex.direct * noop
 www.printmag.com pressablecdn.com * noop
 www.printmag.com c0.wp.com * noop
 www.printmag.com i0.wp.com * noop
