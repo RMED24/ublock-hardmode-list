@@ -95,6 +95,7 @@ www.gog.com deltacdn.net * noop
 www.gog.com images.gog-statics.com * noop
 www.gog.com menu-static.gog-statics.com * noop
 www.gog.com productcard.gog-statics.com * noop
+www.google.co.uk lh3.googleusercontent.com * noop
 accounts.google.com lh3.googleusercontent.com * noop
 accounts.google.com gstatic.com * noop
 accounts.google.com www.gstatic.com * noop
@@ -174,6 +175,7 @@ kick.com dbxmjjzl5pc1g.cloudfront.net * noop
 kick.com live-video.net * noop
 www.linkedin.com akamai.net * noop
 www.linkedin.com static.licdn.com * noop
+linktr.ee d.sni.global.fastly.net * noop
 login.live.com alphacdn.net * noop
 login.live.com azureedge.net * noop
 login.live.com logincdn.msauth.net * noop
@@ -195,6 +197,9 @@ www.microsoft.com mem.gfx.ms * noop
 www.microsoft.com t-msedge.net * noop
 musicbrainz.org static.metabrainz.org * noop
 eac.yahoogroups.narkive.com narkive.net * noop
+www.newgrounds.com cdnjs.cloudflare.com * noop
+www.newgrounds.com ngfiles.com * noop
+www.newgrounds.com ungrounded.net * noop
 www.nytimes.com nyt.com * noop
 www.nytimes.com nytimes.map.fastly.net * noop
 www.omgubuntu.co.uk yt3.ggpht.com * noop
@@ -202,9 +207,13 @@ www.omgubuntu.co.uk youtube-ui.l.google.com * noop
 www.omgubuntu.co.uk googlevideo.com * noop
 www.omgubuntu.co.uk pressablecdn.com * noop
 www.omgubuntu.co.uk www.youtube.com * noop
+www.patreon.com patreonusercontent.com * noop
 www.paypal.com betacdn.net * noop
 www.paypal.com www.paypalobjects.com * noop
 www.paypal.com www.recaptcha.net * noop
+picclick.co.uk cloudflare.com * noop
+picclick.co.uk dscb.akamai.net * noop
+picclick.co.uk www.picclickimg.com * noop
 www.pinterest.com dsca.akamaiedge.net * noop
 www.pinterest.com i.pinimg.com * noop
 www.pinterest.com s.pinimg.com * noop
