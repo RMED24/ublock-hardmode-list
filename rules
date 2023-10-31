@@ -7,6 +7,7 @@ no-large-media: behind-the-scene false
 boards.4chan.org 4cdn.org * noop
 www.4chan.org 4cdn.org * noop
 www.4chan.org cloudflare.com * noop
+boards.4channel.org 4cdn.org * noop
 www.abandonwaredos.com stackpath.bootstrapcdn.com * noop
 www.adobe.com geo2.adobe.com * block
 www.adobe.com assets.adobedtm.com * noop
@@ -49,8 +50,14 @@ creativecommons.org f.vimeocdn.com * noop
 creativecommons.org fresnel.vimeocdn.com * noop
 creativecommons.org i.vimeocdn.com * noop
 creativecommons.org skyfire.vimeocdn.com * noop
+www.curseforge.com forgecdn.net * noop
 www.dailymail.co.uk jsdelivr.map.fastly.net * noop
 www.dailymail.co.uk cdn.jsdelivr.net * noop
+discord.com discord.gg * noop
+discord.com discordapp.com * noop
+discord.com discordapp.net * noop
+discord.com storage.googleapis.com * noop
+support.discord.com zdassets.com * noop
 signin.ebay.co.uk ir.ebaystatic.com * noop
 signin.ebay.co.uk systemcdn.net * noop
 www.ebay.co.uk akamaiedge.net * noop
@@ -154,6 +161,7 @@ support.google.com www.gstatic.com * noop
 www.google.com * 3p-script noop
 www.google.com * image noop
 www.google.com lh3.googleusercontent.com * noop
+www.google.com gstatic.com * noop
 www.google.com encrypted-tbn0.gstatic.com * noop
 www.google.com encrypted-tbn1.gstatic.com * noop
 www.google.com encrypted-tbn2.gstatic.com * noop
@@ -169,6 +177,8 @@ workspaceupdates.googleblog.com blogger.l.google.com * noop
 workspaceupdates.googleblog.com blogger.googleusercontent.com * noop
 workspaceupdates.googleblog.com photos-ugc.l.googleusercontent.com * noop
 www.ifixit.com cloudfront.net * noop
+www.imdb.com dqpnq362acqdi.cloudfront.net * noop
+www.imdb.com media-amazon.com * noop
 imgur.com ipv4.imgur.map.fastly.net * noop
 www.instagram.com static.cdninstagram.com * noop
 kick.com dbxmjjzl5pc1g.cloudfront.net * noop
@@ -195,6 +205,10 @@ www.microsoft.com akamai.net * noop
 www.microsoft.com akamaiedge.net * noop
 www.microsoft.com mem.gfx.ms * noop
 www.microsoft.com t-msedge.net * noop
+www.minecraft.net microsoft.com * noop
+www.minecraft.net minecraftservices.com * noop
+www.minecraftskins.com cloudflare.com * noop
+www.minecraftskins.net bootstrapcdn.com * noop
 musicbrainz.org static.metabrainz.org * noop
 eac.yahoogroups.narkive.com narkive.net * noop
 www.newgrounds.com cdnjs.cloudflare.com * noop
@@ -255,6 +269,7 @@ snapcraft.io akamaiedge.net * noop
 snapcraft.io res.cloudinary.com * noop
 soundcloud.com cloudfront.net * noop
 soundcloud.com sndcdn.com * noop
+www.spigotmc.org cloudflare.com * noop
 accounts.spotify.com accounts.scdn.co * noop
 accounts.spotify.com spotify.map.fastly.net * noop
 open.spotify.com open.spotifycdn.com * noop
