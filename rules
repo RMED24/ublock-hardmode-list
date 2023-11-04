@@ -41,6 +41,8 @@ behind-the-scene * inline-script noop
 betterhumans.pub cdn-client.medium.com * noop
 betterhumans.pub miro.medium.com * noop
 bitly.com cloudfront.net * noop
+cdromance.com ajax.googleapis.com * noop
+coolrom.com.au ajax.googleapis.com * noop
 creativecommons.org player.vimeo.com.cdn.cloudflare.net * noop
 creativecommons.org vimeo-video.map.fastly.net * noop
 creativecommons.org player.vimeo.com * noop
@@ -51,6 +53,8 @@ creativecommons.org fresnel.vimeocdn.com * noop
 creativecommons.org i.vimeocdn.com * noop
 creativecommons.org skyfire.vimeocdn.com * noop
 www.curseforge.com forgecdn.net * noop
+www.curseforge.com google.com * noop
+www.curseforge.com imgur.com * noop
 www.dailymail.co.uk jsdelivr.map.fastly.net * noop
 www.dailymail.co.uk cdn.jsdelivr.net * noop
 discord.com discord.gg * noop
@@ -94,6 +98,7 @@ www.forbes.com i.forbesimg.com * noop
 github.com avatars.githubusercontent.com * noop
 github.com githubassets.com * noop
 github.com github.githubassets.com * noop
+github.com raw.githubusercontent.com * noop
 github.com s3-w.us-east-1.amazonaws.com * noop
 github.com s3.amazonaws.com * noop
 github.com user-images.githubusercontent.com * noop
@@ -221,6 +226,7 @@ www.omgubuntu.co.uk youtube-ui.l.google.com * noop
 www.omgubuntu.co.uk googlevideo.com * noop
 www.omgubuntu.co.uk pressablecdn.com * noop
 www.omgubuntu.co.uk www.youtube.com * noop
+opengoal.dev github.com * noop
 www.patreon.com patreonusercontent.com * noop
 www.paypal.com betacdn.net * noop
 www.paypal.com www.paypalobjects.com * noop
@@ -250,6 +256,7 @@ www.reddit.com yt3.ggpht.com * noop
 www.reddit.com youtube-ui.l.google.com * noop
 www.reddit.com photos-ugc.l.googleusercontent.com * noop
 www.reddit.com googlevideo.com * noop
+www.reddit.com redd.it * noop
 www.reddit.com external-preview.redd.it * noop
 www.reddit.com preview.redd.it * noop
 www.reddit.com v.redd.it * noop
@@ -274,6 +281,7 @@ accounts.spotify.com accounts.scdn.co * noop
 accounts.spotify.com spotify.map.fastly.net * noop
 open.spotify.com open.spotifycdn.com * noop
 open.spotify.com spotifycdn.map.fastly.net * noop
+gaming.stackexchange.com sstatic.net * noop
 unix.stackexchange.com cdn.sstatic.net * noop
 steamcommunity.com api.steampowered.com * noop
 steamcommunity.com login.steampowered.com * noop
@@ -295,6 +303,7 @@ www.theguardian.com youtube.com * noop
 www.theguardian.com i.ytimg.com * noop
 www.tiktok.com akamai.net * noop
 www.tiktok.com rsc.cdn77.org * noop
+www.tiktok.com tiktokcdn-us.com * noop
 www.tiktok.com tiktokcdn.com * noop
 www.tiktok.com ttwstatic.com * noop
 tinyurl.com icons.duckduckgo.com * noop
@@ -308,6 +317,7 @@ trello.com cloudfront.net * noop
 trello.com s3-w.us-east-1.amazonaws.com * noop
 trello.com trello-members.s3.amazonaws.com * noop
 twitter.com edgecastcdn.net * noop
+twitter.com twimg.com * noop
 twitter.com abs.twimg.com * noop
 forum.ubuntuusers.de static-cdn.ubuntu-de.org * noop
 vimeo.com akamai.net * noop
