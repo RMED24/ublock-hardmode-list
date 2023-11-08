@@ -34,6 +34,7 @@ discussions.apple.com akamaiedge.net * noop
 support.apple.com akamaiedge.net * noop
 www.apple.com akamaiedge.net * noop
 www.apple.com store.storeimages.cdn-apple.com * noop
+askubuntu.com sstatic.net * noop
 www.asus.com psicdn.net * noop
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
@@ -47,6 +48,7 @@ betterhumans.pub miro.medium.com * noop
 bitly.com cloudfront.net * noop
 cdromance.com ajax.googleapis.com * noop
 coolrom.com.au ajax.googleapis.com * noop
+www.cosmopolitan.com hearstapps.com * noop
 creativecommons.org player.vimeo.com.cdn.cloudflare.net * noop
 creativecommons.org vimeo-video.map.fastly.net * noop
 creativecommons.org player.vimeo.com * noop
@@ -69,6 +71,8 @@ www.curseforge.com google.com * noop
 www.curseforge.com imgur.com * noop
 www.dailymail.co.uk jsdelivr.map.fastly.net * noop
 www.dailymail.co.uk cdn.jsdelivr.net * noop
+www.deviantart.com parastorage.com * noop
+www.deviantart.com wixmp.com * noop
 disboard.org challenges.cloudflare.com * noop
 discord.com discord.gg * noop
 discord.com discordapp.com * noop
@@ -90,6 +94,8 @@ www.ebay.co.uk pics.ebaystatic.com * noop
 www.ebay.co.uk secureir.ebaystatic.com * noop
 www.ebay.co.uk hcaptcha.com * noop
 www.ebay.co.uk systemcdn.net * noop
+www.ebay.com ebayimg.com * noop
+www.ebay.com ebaystatic.com * noop
 www.ebay.it autotrack.g.ebay.com * noop
 www.ebay.it signin.g.ebay.com * noop
 www.ebay.it ebay.map.fastly.net * noop
@@ -198,9 +204,13 @@ workspaceupdates.googleblog.com blogger.googleusercontent.com * noop
 workspaceupdates.googleblog.com photos-ugc.l.googleusercontent.com * noop
 www.ifixit.com cloudfront.net * noop
 www.imdb.com cloudfront.net * noop
+www.imdb.com dqpnq362acqdi.cloudfront.net * noop
 www.imdb.com media-amazon.com * noop
 imgur.com ipv4.imgur.map.fastly.net * noop
 www.instagram.com static.cdninstagram.com * noop
+lowlevellemmy.itch.io hwcdn.net * noop
+lowlevellemmy.itch.io itch.zone * noop
+store.kde.org pling.com * noop
 kick.com dbxmjjzl5pc1g.cloudfront.net * noop
 kick.com live-video.net * noop
 www.linkedin.com akamai.net * noop
@@ -219,6 +229,8 @@ www.meetup.com cloudfront.net * noop
 www.meetup.com f4.shared.global.fastly.net * noop
 www.meetup.com secure.meetupstatic.com * noop
 www.meetup.com secure-content.meetupstatic.com * noop
+mega.nz mega.co.nz * noop
+www.microchip.com microchipdirect.com * noop
 dotnet.microsoft.com dscb.akamaiedge.net * noop
 dotnet.microsoft.com part-0036.t-0009.t-msedge.net * noop
 www.microsoft.com akamai.net * noop
@@ -270,6 +282,7 @@ www.protondb.com steamcdn-a.akamaihd.net * noop
 www.protondb.com steamstatic.com * noop
 www.quora.com cloudflare.net * noop
 www.quora.com quoracdn.net * noop
+readme.so jsdelivr.net * noop
 beta.reddit.com reddit.map.fastly.net * noop
 beta.reddit.com redditmedia.com * noop
 beta.reddit.com www.redditstatic.com * noop
@@ -285,12 +298,14 @@ www.reddit.com reddit.map.fastly.net * noop
 www.reddit.com styles.redditmedia.com * noop
 www.reddit.com a.thumbs.redditmedia.com * noop
 www.reddit.com b.thumbs.redditmedia.com * noop
+www.reddit.com redditspace.com * noop
 www.reddit.com www.redditstatic.com * noop
 www.reddit.com www.youtube-nocookie.com * noop
 www.reddit.com i.ytimg.com * noop
 www.roblox.com akamai.net * noop
 www.roblox.com hwcdn.net * noop
 www.roblox.com rbxcdn.com * noop
+www.sciencedirect.com sciencedirectassets.com * noop
 serverfault.com cdn.sstatic.net * noop
 sfcl.pages.dev yt3.ggpht.com * noop
 sfcl.pages.dev photos-ugc.l.googleusercontent.com * noop
@@ -313,6 +328,7 @@ open.spotify.com open.spotifycdn.com * noop
 open.spotify.com spotifycdn.map.fastly.net * noop
 gaming.stackexchange.com sstatic.net * noop
 unix.stackexchange.com cdn.sstatic.net * noop
+stackoverflow.com sstatic.net * noop
 steamcommunity.com api.steampowered.com * noop
 steamcommunity.com login.steampowered.com * noop
 steamcommunity.com avatars.cloudflare.steamstatic.com * noop
@@ -320,9 +336,11 @@ steamcommunity.com community.cloudflare.steamstatic.com * noop
 steamdb.info algolia.net * noop
 steamdb.info avatars.cloudflare.steamstatic.com * noop
 steamdb.info cdn.cloudflare.steamstatic.com * noop
+store.steampowered.com steamstatic.com * noop
 superuser.com cdn.sstatic.net * noop
 techable.com cdn-emghl.nitrocdn.com * noop
 www.tesco.com akamaiedge.net * noop
+textrapp.com website-files.com * noop
 www.theguardian.com edgecastcdn.net * noop
 www.theguardian.com yt3.ggpht.com * noop
 www.theguardian.com googlevideo.com * noop
@@ -350,6 +368,7 @@ twitter.com edgecastcdn.net * noop
 twitter.com twimg.com * noop
 twitter.com abs.twimg.com * noop
 forum.ubuntuusers.de static-cdn.ubuntu-de.org * noop
+am2r-another-metroid-2-remake.en.uptodown.com utdstc.com * noop
 vimeo.com akamai.net * noop
 vimeo.com player.vimeo.com.cdn.cloudflare.net * noop
 vimeo.com download-video.akamaized.net * noop
