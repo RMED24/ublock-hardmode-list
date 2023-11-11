@@ -16,6 +16,8 @@ www.adobe.com assets.adobedtm.com * noop
 www.adobe.com auth-cloudfront.prod.ims.adobejanus.com * noop
 www.adobe.com akamaiedge.net * noop
 www.aliexpress.com alicdn.com * noop
+www.aliexpress.us alicdn.com * noop
+www.aliexpress.us e27.akamaiedge.net * noop
 www.amazon.co.jp media.amazon.map.fastly.net * noop
 www.amazon.co.jp d1z43etpa00ikg.cloudfront.net * noop
 www.amazon.co.jp c.media-amazon.com * noop
@@ -66,7 +68,7 @@ db.cuetools.net github.com * noop
 db.cuetools.net github.githubassets.com * noop
 db.cuetools.net www.google.com * noop
 db.cuetools.net www.gstatic.com * noop
-www.curseforge.com forgecdn.net * noop
+www.curseforge.com dlp93p00qw40g.cloudfront.net * noop
 www.curseforge.com google.com * noop
 www.curseforge.com imgur.com * noop
 www.dailymail.co.uk jsdelivr.map.fastly.net * noop
@@ -96,6 +98,7 @@ www.ebay.co.uk hcaptcha.com * noop
 www.ebay.co.uk systemcdn.net * noop
 www.ebay.com ebayimg.com * noop
 www.ebay.com ebaystatic.com * noop
+www.ebay.com systemcdn.net * noop
 www.ebay.it autotrack.g.ebay.com * noop
 www.ebay.it signin.g.ebay.com * noop
 www.ebay.it ebay.map.fastly.net * noop
@@ -109,6 +112,7 @@ www.etsy.com akamai.net * noop
 www.etsy.com i.etsystatic.com * noop
 www.etsy.com js.sentry-cdn.com * noop
 www.facebook.com fbcdn.net * noop
+better-end-mod.fandom.com nocookie.net * noop
 discussion.fedoraproject.org discourse-cdn.com * noop
 www.feralhosting.com challenges.cloudflare.com * noop
 flickr.com cloudfront.net * noop
@@ -211,15 +215,19 @@ www.instagram.com static.cdninstagram.com * noop
 lowlevellemmy.itch.io hwcdn.net * noop
 lowlevellemmy.itch.io itch.zone * noop
 store.kde.org pling.com * noop
+kick.com d2egosedh0nm8l.cloudfront.net * noop
 kick.com dbxmjjzl5pc1g.cloudfront.net * noop
 kick.com live-video.net * noop
 www.linkedin.com akamai.net * noop
 www.linkedin.com static.licdn.com * noop
 linktr.ee d.sni.global.fastly.net * noop
+account.live.com msftauth.net * noop
+account.live.com t-msedge.net * noop
 login.live.com alphacdn.net * noop
 login.live.com azureedge.net * noop
 login.live.com logincdn.msauth.net * noop
 login.live.com logincdn.msftauth.net * noop
+login.live.com t-msedge.net * noop
 app.luminpdf.com content.googleapis.com * noop
 app.luminpdf.com google.com * noop
 app.luminpdf.com storage.googleapis.com * noop
@@ -273,10 +281,13 @@ www.pishop.us cdn11.bigcommerce.com.cdn.cloudflare.net * noop
 www.pishop.us checkout-sdk.bigcommerce.com.cdn.cloudflare.net * noop
 www.play-asia.com playasia.b-cdn.net * noop
 www.play-asia.com s.pacn.ws * noop
+app.plex.tv plex.bz * noop
 app.plex.tv plex.direct * noop
 www.printmag.com pressablecdn.com * noop
 www.printmag.com c0.wp.com * noop
 www.printmag.com i0.wp.com * noop
+professionalcomposers.com youtube.com * noop
+professionalcomposers.com ytimg.com * noop
 www.protondb.com akamai.net * noop
 www.protondb.com steamcdn-a.akamaihd.net * noop
 www.protondb.com steamstatic.com * noop
@@ -302,9 +313,11 @@ www.reddit.com redditspace.com * noop
 www.reddit.com www.redditstatic.com * noop
 www.reddit.com www.youtube-nocookie.com * noop
 www.reddit.com i.ytimg.com * noop
+reverb.com sprig.com * noop
 www.roblox.com akamai.net * noop
 www.roblox.com hwcdn.net * noop
 www.roblox.com rbxcdn.com * noop
+www.schoolofrock.com imgix.map.fastly.net * noop
 www.sciencedirect.com sciencedirectassets.com * noop
 serverfault.com cdn.sstatic.net * noop
 sfcl.pages.dev yt3.ggpht.com * noop
@@ -319,6 +332,7 @@ www.slideshare.net cdn.slidesharecdn.com * noop
 www.slideshare.net public.slidesharecdn.com * noop
 snapcraft.io akamaiedge.net * noop
 snapcraft.io res.cloudinary.com * noop
+softcobra.com cloudflare.com * noop
 soundcloud.com cloudfront.net * noop
 soundcloud.com sndcdn.com * noop
 www.spigotmc.org cloudflare.com * noop
@@ -326,8 +340,10 @@ accounts.spotify.com accounts.scdn.co * noop
 accounts.spotify.com spotify.map.fastly.net * noop
 open.spotify.com open.spotifycdn.com * noop
 open.spotify.com spotifycdn.map.fastly.net * noop
+electronics.stackexchange.com sstatic.net * noop
 gaming.stackexchange.com sstatic.net * noop
 unix.stackexchange.com cdn.sstatic.net * noop
+video.stackexchange.com sstatic.net * noop
 stackoverflow.com sstatic.net * noop
 steamcommunity.com api.steampowered.com * noop
 steamcommunity.com login.steampowered.com * noop
@@ -339,6 +355,7 @@ steamdb.info cdn.cloudflare.steamstatic.com * noop
 store.steampowered.com steamstatic.com * noop
 superuser.com cdn.sstatic.net * noop
 techable.com cdn-emghl.nitrocdn.com * noop
+tenor.com tenor.googleapis.com * noop
 www.tesco.com akamaiedge.net * noop
 textrapp.com website-files.com * noop
 www.theguardian.com edgecastcdn.net * noop
@@ -381,7 +398,6 @@ en.wikipedia.org upload.wikimedia.org * noop
 www.wired.com condenast.map.fastly.net * noop
 lesestube.wordpress.com s0.wp.com * noop
 wordpress.org i0.wp.com * noop
-www.youtube.com fonts.googleapis.com * noop
 www.youtube.com yt3.ggpht.com * noop
 www.youtube.com youtube-ui.l.google.com * noop
 www.youtube.com photos-ugc.l.googleusercontent.com * noop
@@ -390,3 +406,4 @@ www.youtube.com googlevideo.com * noop
 www.youtube.com fonts.gstatic.com * noop
 www.youtube.com www.gstatic.com * noop
 www.youtube.com i.ytimg.com * noop
+www.youtube.com https://www.youtube.com/s/desktop/6ee70b2c/jsbin/scheduler.vflset/scheduler.js script block
